@@ -1,0 +1,16 @@
+/*
+Theme Name: Lumino Design Studio
+Theme URI: https://luminodesign.studio
+Author: Lumino Design
+Author URI: https://luminodesign.studio
+Description: A minimalist, high-end editorial portfolio theme faithfully inspired by the Operator Framer template, featuring adaptive 552x690 work cards, live studio clock, and clean typography.
+Version: 1.0.0
+Requires at least: 5.9
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+Text Domain: lumino
+Tags: portfolio, grid-layout, custom-post-type, full-width-template, responsive-layout, translation-ready
+*/
+
+@import url('assets/css/main.css');
